@@ -1,5 +1,7 @@
 # JavaSE-8.ObjectsComparison
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 In Java, object comparison is a common operation, and it's important to understand how it works. 
 
 There are two primary ways to compare objects in Java: using the equals() method and using the == operator. Let me illustrate both with some examples.
